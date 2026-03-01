@@ -1,3 +1,15 @@
+# Self-learning fork of `xoofx/markdig`
+
+> [!WARNING]
+> This is NOT the original Markdig!!
+
+- Forked from: [xoofx/markdig](https://github.com/xoofx/markdig)
+- Purpose: Self-study of Markdown parsing and C# refactoring
+- Refactoring policy: Reduce nesting, reduce static methods (prioritized over performance)
+
+> [!NOTE]
+> The following text is from the original repository.
+
 # Markdig [![ci](https://github.com/xoofx/markdig/actions/workflows/ci.yml/badge.svg)](https://github.com/xoofx/markdig/actions/workflows/ci.yml) [![Coverage Status](https://coveralls.io/repos/github/xoofx/markdig/badge.svg?branch=master)](https://coveralls.io/github/xoofx/markdig?branch=master) [![NuGet](https://img.shields.io/nuget/v/Markdig.svg)](https://www.nuget.org/packages/Markdig/)
 
 <img align="right" width="160px" height="160px" src="img/markdig.png">
